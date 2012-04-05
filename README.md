@@ -4,7 +4,10 @@ A Python library for accessing the Twitter API. It is designed to be extensible 
 has grouped their methods.
 
 ## Requirements
+
 	Python Version >= 2.5, No support for 3 yet
+
+## Examples
 
 Basic usage:
 	from twipy import Twipy
